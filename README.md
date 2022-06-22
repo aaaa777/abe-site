@@ -8,4 +8,4 @@ https://aaaa777.github.io/abe-site/index.html
 - 阿部寛のブラウザゲーム
 - 阿部寛のAA（プログラムとして動く）
 - 逆RTA
-- 
+- 阿部寛と自分の顔の類似度を調べる（詳しくはhttps://x.gd/NECmJ からダウンロードしてね。
