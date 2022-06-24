@@ -37,8 +37,8 @@ var NEXTLEVEL = 10;					// 次のレベルまでの消去ライン数
  */
 var canvas = null;						// キャンバス取得
 var g = null;							// コンテキスト取得
-var stage = new Array(BLOCK_COLS);	// ゲームのステージ枠（壁の情報のみ、変化しない）
-var field = new Array(BLOCK_COLS);		// ゲーム中のステージ枠とブロック表示用（変化する）
+var stage = new Array(5);	// ゲームのステージ枠（壁の情報のみ、変化しない）
+var field = new Array(5);		// ゲーム中のステージ枠とブロック表示用（変化する）
 var bs;								// ブロックサイズ
 var speed;							// 落下速度
 var frame;							// ゲームフレーム番号
